@@ -1,2 +1,2 @@
 # Assignment-8
-Creating presentations in Rmarkdown
+This repo contains a short presentation that introduces myself and some of the things I've learned in class this quarter.
