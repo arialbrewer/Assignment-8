@@ -1,0 +1,59 @@
+---
+title: "Some things I learned this quarter"
+subtitle: "FISH 497"
+author: "Arial Brewer<br>arialb@uw.edu"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Introduction
+
+## About me | Personal
+
+- California, USA
+- Mexican & Italian food
+- Dogs, whales, sea lions
+
+## About me | Academic
+
+- University of California, Santa Cruz
+- Marine Biology
+
+## About me | Things I've missed during the pandemic
+
+- I miss visiting my family in Southern California
+- I miss having dinner with friends
+- I miss traveling
+
+# Data Science
+
+## Course topics | 3 things I enjoyed learning about
+
+- Getting to know more about R Markdown
+- Learning about Shiny apps
+- Building a simple website
+
+## Course topics | 3 things I'd like to learn more about
+
+- More complex website building
+- building more complex packages
+- The next level deep dive into Github after the intro level
+
+## {data-background=img/rmarkdown.png data-background-size=cover}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
